@@ -27,7 +27,11 @@ public:
         // return the new string
         return out_s;
     }
+};
 
+class Solution
+{
+public:
     std::string mergeAlternately(std::string word1, std::string word2)
     {
 
