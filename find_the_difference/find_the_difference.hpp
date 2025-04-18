@@ -1,7 +1,7 @@
 class Solution
 {
 public:
-    char findTheDifference(string s, string t)
+    char findTheDifference(std::string s, std::string t)
     {
         // find the difference between sets
         std::multiset<char> s_set(s.begin(), s.end());
