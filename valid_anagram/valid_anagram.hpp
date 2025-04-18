@@ -26,7 +26,7 @@ public:
             }
             else
             {
-                obs_map[c] = obs_map[c] + 1;
+                obs_map.at(c) = obs_map.at(c) + 1;
             }
         }
         auto s_ptr = std::make_shared<std::unordered_map<char, size_t>>(obs_map);
