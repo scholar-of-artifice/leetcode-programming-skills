@@ -12,8 +12,8 @@ public:
         size_t i = 0;
         for (i; i < std::min(word1.size(), word2.size()); i++)
         {
-            out_s += word1[i];
-            out_s += word2[i];
+            out_s += word1.at(i);
+            out_s += word2.at(i);
         }
         // append the remaining characters
         if (i < word1.size())
