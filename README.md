@@ -13,6 +13,7 @@ This repository is designed to illustrate the fundamentals of programming. You s
 
 The thought here is simple: nail the basics, and you are well on your way to mastering a language. If you are coming from `Python` or `JavaScript` and curious about `C++`, this is a great place to start!
 
-## Where can I find these problems?
+## :compass: Where can I find these problems?
 All of these problems are sourced from `leetcode.com`.
+
 :link: site: https://leetcode.com/studyplan/programming-skills/
