@@ -1,17 +1,18 @@
-# programming_skills
+# leetcode-programming-skills
+
 This repository intends to demonstrate some programming problems using different languages.
 
-# Why does this repository exist?
-This repository intends to show the reader how to do basic programming using the following languages:
-    - Python
-    - C++
-    - ???
+## :seedling: Start your Programming Journey
 
-I figure, if you know how to do these basic problems in a programming language, then you are probably well on your way to learning that language.
+This repository is designed to illustrate the fundamentals of programming. You should learn to programby solving hands-on problems. I aim to provide solutions in the following programming languages:
 
-Consider this as learning material for those moving from Python//JavaScript to C++.
+- Python
+- C++
 
-# Where can I find these problems?
+> :orange_book: I hope to add languages such as `OCaml`, `Go-lang`, or `Swift` in the future.
+
+The thought here is simple: nail the basics, and you are well on your way to mastering a language. If you are coming from `Python` or `JavaScript` and curious about `C++`, this is a great place to start!
+
+## Where can I find these problems?
 All of these problems are sourced from `leetcode.com`.
-
-site: https://leetcode.com/studyplan/programming-skills/
+:link: site: https://leetcode.com/studyplan/programming-skills/
