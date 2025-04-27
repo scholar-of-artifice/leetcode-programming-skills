@@ -14,7 +14,7 @@ class Solution
 public:
     vector<int> inorderTraversal(TreeNode *root)
     {
-        // iterative approach
+        // recursive approach
         // make an array like from values of:
         std::vector<int> out_vector = {};
         if (root == nullptr)
